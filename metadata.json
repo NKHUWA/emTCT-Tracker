@@ -1,0 +1,7 @@
+{
+  "name": "EMTCT Track Pro",
+  "description": "A comprehensive HIV-exposed infant tracking system for health facilities and districts, featuring role-based access, automated testing schedules, and real-time monitoring of EMTCT program outcomes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
